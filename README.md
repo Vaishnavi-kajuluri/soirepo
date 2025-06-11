@@ -1,3 +1,8 @@
 # soirepo
 *italic*
 ** bold**
+
+
+
+
+~strike~
