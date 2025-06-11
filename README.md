@@ -7,6 +7,6 @@
 
 ~strike~
 ## checklist
-[x] aws
-[x] amazon
-[x] bye
+- [x] aws
+- [x] amazon
+- [x] bye
