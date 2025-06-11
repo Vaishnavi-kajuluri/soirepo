@@ -10,3 +10,4 @@
 - [x] aws
 - [x] amazon
 - [x] bye
+Footnote[^1] 
