@@ -11,3 +11,4 @@
 - [x] amazon
 - [x] bye
 Footnote[^1] 
+[^1] :Hai
